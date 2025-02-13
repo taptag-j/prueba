@@ -4,11 +4,19 @@
 body {
     font-family: Montserrat;
     font-size: 16px;
-    background-image: url(fondoventana.png);
+    background-image: url(fondotv1.png);
     background-size: 100%;
 }
 h1 {
     font-size: 28px;
+    color: white;
+}
+p{
+    border: rgb(146, 156, 156) solid;
+    background-color: rgb(172, 174, 174);
+    padding: 10px;
+    border-radius: 15px;
+    opacity: 85%;
 }
 a {
     text-decoration: none;
