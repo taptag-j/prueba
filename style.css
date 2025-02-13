@@ -9,14 +9,10 @@ body {
 }
 h1 {
     font-size: 28px;
-    color: white;
-}
-p{
-    border: rgb(146, 156, 156) solid;
-    background-color: rgb(172, 174, 174);
-    padding: 10px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    padding: 18px;
     border-radius: 15px;
-    opacity: 85%;
 }
 a {
     text-decoration: none;
