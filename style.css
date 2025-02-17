@@ -8,12 +8,16 @@ body {
     background-size: 100%;
     background-repeat: no-repeat;
 }
-h1 {
-    font-size: 28px;
+p {
+    font-size: 25px;
     color: rgb(0, 0, 0);
     background-color: white;
     padding: 18px;
     border-radius: 13px;
+    opacity: 65%;
+}
+span{
+    color: #262262;
 }
 a {
     text-decoration: none;
